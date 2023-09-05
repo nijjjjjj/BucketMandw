@@ -50,7 +50,7 @@ print("music alr playing bruv!!")
 else
 workspace.ServerStuff.playAudio:FireServer({"songs"}, "zealot", char.PrimaryPart)
 end
-spawn("Shovel")
+spawn("FPan")
 maliceanim:Play()
 workspace.ServerStuff.playAudio:FireServer({"events"}, "shiparrive2", char.PrimaryPart)
 workspace.ServerStuff.playAudio:FireServer({"events"}, "shiparrive", char.PrimaryPart)
